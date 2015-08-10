@@ -1,3 +1,3 @@
 <?php
-echo "Inicio de Crud para Sencha ExtJS 6";
+echo "Home Crud para Sencha ExtJS 6";
 ?>
